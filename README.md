@@ -3,6 +3,8 @@ meteor-cordova-file-server
 
 A local HTTP server for cordova applications to load files from the device file system.
 
+#### This package may have issues.  It has not been extensively tested.
+
 
 ## Usage
 
