@@ -1,7 +1,7 @@
 Package.describe({
     summary: "A local HTTP server for cordova applications to load files from the device file system.",
     name: "natestrauser:cordova-file-server",
-    version: "0.1.1",
+    version: "0.1.2",
     git: "https://github.com/nate-strauser/meteor-cordova-file-server.git"
 });
 

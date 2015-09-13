@@ -37,6 +37,22 @@ With this local http server running you can now load assets from the local files
 `CordovaFileServer.httpUrl` is the local url - usually "http://127.0.0.1:8080/"
 
 
+### Overriding Default Options
+
+The cordova http server options can be overridden from Meteor settings.
+
+```
+{
+	"public":{
+		"CordovaFileServer":{
+			"port":8080,
+			"localhost_only": false
+		}
+	}
+}
+```
+
+
 ## TODO
 * Option for manual start of server
 * Ensure server is up on resume

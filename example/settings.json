@@ -1,0 +1,8 @@
+{
+	"public":{
+		"CordovaFileServer":{
+			"port":8080,
+			"localhost_only": false
+		}
+	}
+}
